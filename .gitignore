@@ -37,6 +37,3 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# Test ignoring data directory
-data/**
