@@ -38,8 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# Test .xlsx ignore
-.xlsx
-
-# Test .csv ignore
-.csv
+# Test /data ignore
+data/**
