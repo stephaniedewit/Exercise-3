@@ -37,6 +37,3 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-#Poging 4: test data_2 files negeren
-data_2/**
